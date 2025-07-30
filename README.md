@@ -15,8 +15,8 @@ Servo motor ve Arduino sayesinde pratik ve ekonomik bir çözüm sunar.
 ## 📂 Dosya Yapısı
 
 | Dosya                                             | Açıklama                         |
-|---------------------------------------------------|---------------------------------|
-| `code/rain_roof.ino`                              | Arduino kaynak kodu              |
+|--------------------------------------------------|---------------------------------|
+| `code/rain_roof.ino`                             | Arduino kaynak kodu              |
 | `docs/Yağmurda_Kapanan_Çatı_Sistemi_Proje_Dokumanı.docx` | Proje dokümanı                 |
 
 ---
@@ -30,15 +30,17 @@ Servo motor ve Arduino sayesinde pratik ve ekonomik bir çözüm sunar.
 
 ---
 
-## 📞 İletişim & Katkı
+## 💬 **İletişim & Katkı**
 
-Proje hakkında görüş ve önerileriniz için lütfen e-posta ile iletişime geçin:  
-**aslikorkmaz48@example.com**  _(buraya kendi e-postanı yazabilirsin)_
+📧 **E-posta:** [korkmaz.asli2003@gmail.com](mailto:korkmaz.asli2003@gmail.com)  
+✨ **Projeyi beğendiyseniz lütfen bir ⭐ bırakın!**  
+🤝 **Katkıda bulunmak için:**  
+- Projeyi fork’layın  
+- Değişikliklerinizi yapın  
+- Pull request gönderin  
 
-Projeyi beğendiyseniz ⭐ bırakmayı unutmayın!  
-Katkıda bulunmak isterseniz, fork edip pull request gönderebilirsiniz.
+Her türlü öneri ve geri bildiriminiz bizim için çok değerli!
 
 ---
 
-**Teşekkürler!**  
-
+**🙏 Teşekkürler ve iyi çalışmalar!**
